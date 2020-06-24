@@ -1,5 +1,5 @@
 import React from 'react';
-import HangedMan from "./HangedMan"
+import HangedMan from "./HangedMan/HangedMan"
 
 export default function App() {
   return (

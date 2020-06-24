@@ -1,0 +1,22 @@
+.Buttons{
+    margin-top: 30px;
+}
+.col-1{
+    margin: 5px;
+}
+.Stats{
+  font-weight: bold;
+}
+.Restart{
+    margin-top: 30px;
+}
+
+.winIssue{
+    font-weight: bold;
+color:green;
+}
+
+.looseIssue{
+font-weight: bold;
+color:red;
+}
